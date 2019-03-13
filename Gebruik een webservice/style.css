@@ -1,0 +1,11 @@
+#container {
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#author, #quote {
+  justify-content: center;
+  text-align: center;
+}
