@@ -1,6 +1,6 @@
 # Description
 
-Beginning of February 2019: we are now learning ajax (Asynchronous JAvaScript + XML). This exercise represents a simple fetch from an [api](https://thatsthespir.it/api) on the [That's the spirit website](https://thatsthespir.it/) to generate a random quote on our own website.
+Beginning of February 2019: we are now learning ajax (Asynchronous JAvaScript + XML). This exercise represents a simple fetch from an [api](https://thatsthespir.it/api) on the [That's the spirit website](https://thatsthespir.it/) to generate a random quote on our own [website](https://sonia012.github.io/ajax-simple-web-service-request/).
 
 # Technologies used
 
